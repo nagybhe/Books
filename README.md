@@ -1,2 +1,2 @@
-# Livros
-Conhecimento é o ato de conhecer, é ter ideia ou a noção de algo através de informações que lhe são apresentadas.
+# Books
+<i>“A coisa mais indispensável a um homem é reconhecer o uso que deve fazer do seu próprio conhecimento.” - Platão</i>
